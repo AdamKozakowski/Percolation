@@ -3,7 +3,6 @@ import matplotlib.pyplot as plt
 import copy
 import Percolation_functions as func
 
-
 class Lattice:
     def __init__(self,size: int, p):
         self.size = size
